@@ -1,6 +1,7 @@
 **Given the diverse and ever-changing landscape of consumer preferences and market trends, is an Airbnb investment truly worth it?**
 ![airbnb-678x381-1](https://github.com/RichardEchols/AirbnbWorth/assets/125469793/dc58312e-0b89-4d7d-904f-0cc84da883a4)
 
+[Link: Tableau Dashboard: Given the diverse and ever-changing landscape of consumer preferences and market trends, is an Airbnb investment truly worth it?](https://public.tableau.com/app/profile/richard.echols/viz/AirBnBFullProject_16986414547740/Dashboard1)
 
 **Background:**
 
